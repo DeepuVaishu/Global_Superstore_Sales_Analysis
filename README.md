@@ -68,9 +68,11 @@ A map visual displaying sales distribution across global regions. Key insights i
 A bar chart visualizing the return rate for each product category. This is useful for identifying categories with higher return rates and investigating potential quality issues.
 2. **Average Order Value per City (Top 10):**
 A stacked bar chart highlighting the top 10 cities with the highest average order value, indicating high-value customer locations.
-3. **Total Profit by Product Name (Top 5 and Bottom 5):**
+3. **Count of Customer ID by Region:**
+The pie chart  represents the percentage distribution of customers across various regions. This breakdown is essential for understanding market penetration and customer distribution geographically.
+4. **Total Profit by Product Name (Top 5 and Bottom 5):**
 Two bar charts displaying the most profitable products and the least profitable ones. This helps in inventory and product line management.
-4. **Top 10 Customers:**
+5. **Top 10 Customers:**
 A bar chart visual listing the top 10 customers by sales volume, providing insights into customer behavior and loyalty.
 
 ![Report Preview(1)](https://github.com/user-attachments/assets/39f6518f-035d-4bf3-aec3-dfc8c0f0a58b)
